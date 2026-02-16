@@ -1,0 +1,8 @@
+pyproject.toml
+src/spackit/__init__.py
+src/spackit/main.py
+src/spackit.egg-info/PKG-INFO
+src/spackit.egg-info/SOURCES.txt
+src/spackit.egg-info/dependency_links.txt
+src/spackit.egg-info/entry_points.txt
+src/spackit.egg-info/top_level.txt
